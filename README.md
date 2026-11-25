@@ -1,0 +1,6 @@
+# The Robot Apology — Entry
+[![make.fun · u-suga-the-robot-apology-dd96bb59](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
+[![rank](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/kizuna99/u-suga-the-robot-apology-dd96bb59-entry/rank.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
+[![reward](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/kizuna99/u-suga-the-robot-apology-dd96bb59-entry/reward.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59?utm_source=github&utm_medium=readme&utm_campaign=u-suga-the-robot-apology-dd96bb59)
+
+A two-line robot confession: a household unit apologises for giving the cat a second breakfast at half past five — she was sitting by her bowl again, and was sick on the hall rug — and learns that its own log already said "fed" and that a hopeful cat is not evidence, so it will check that log before opening another tin. `main.ts` (Node, no dependencies) writes the text to `/output/entry.txt`.
